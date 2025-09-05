@@ -107,21 +107,21 @@
 
 #### 2.2 Ventajas y Desventajas de un Computador Neuromórfico
 
-#####2.2.1 Ventajas de un Computador Neuromórfico
+##### 2.2.1 Ventajas de un Computador Neuromórfico
 
 - Identificación de Patrones ; Aprendizaje Automático ; Satisfacción de requerimientos.
 
-#####2.2.2 Desventajas de un Computador Neuromórfico
+##### 2.2.2 Desventajas de un Computador Neuromórfico
 
 - Complejidad en el Diseño ; Costos de la Fabricación de Chips Neuromórficos
 
 ------------
-####2.3 Hardware de la Computación Neuromórfica
+#### 2.3 Hardware de la Computación Neuromórfica
 
 - La mayoría de los dispositivos neuromórficos están hechos de silicio y emplean tecnología CMOS (semiconductor de óxido metálico complementario)[11].
 
 ------------
-####2.4 Tipos de Computación Neuromórfica
+#### 2.4 Tipos de Computación Neuromórfica
 
 - Deep Learning.
 - Algoritmos Evolutivos.
