@@ -1,7 +1,6 @@
 # TAREA 2 SISTEMAS DIGITALES III
 
 **Table of Contents**
-
 [TOCM]
 
 [TOC]
